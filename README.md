@@ -4,7 +4,13 @@ A machine learning-powered web application designed to detect and classify marin
 
 ## Overview
 
-![Marine Litter Detection](sample/drone_litter.jpg)
+**Sample Input Image:**
+![Sample Drone Image of Marine Litter](sample/drone_litter.jpg)
+*Attribution: Sample image of marine litter captured via drone.*
+
+**Detection Result:**
+![Marine Litter Detection Results](result/sample_results.png)
+*Attribution: Output result showing classified marine litter with bounding boxes.*
 
 ## Features
 
